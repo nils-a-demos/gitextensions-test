@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <PackageReference Include="GitExtensions.Extensibility" Version="0.1.1.40" />
+    <PackageReference Include="System.Resources.Extensions" Version="6.0.0" />
   </ItemGroup>
 
   <!--SourceLink support: https://github.com/dotnet/sourcelink -->
